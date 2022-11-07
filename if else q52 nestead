@@ -1,0 +1,54 @@
+
+
+# name = input("enter name")
+# if len(name)>=3:
+#     if "ing" in name :
+#         print(name+"ly")
+#     else:
+#         print(name+"ing")
+# else:
+#     print("name")
+
+
+# name=input ("enter name")
+# name1=input("enter name")
+# a=(name1[0:],name1[0:])
+
+
+# weather=input ("enter the character line;")
+# if weather=="raining":
+#     print("barrish ho rahi hai ")
+# else:
+#     print ("barrish nhi ho rahi hai")
+
+
+ 
+
+# a=5.11
+# b=6.2
+# c=int(a)
+# d=int(b)
+# print(c+d)
+
+
+
+# a=[1,2,3,4,5,6]
+# k=0
+# b=int(input("enter the num"))
+# i=0
+# while i<len(a):
+#     if a[i]==b:
+#         k=i
+#     i=i+1
+# j=0
+# list=[]
+# while j<len(a):
+#     if a[j]>k:
+#         list.append(a[j])
+#     j=j+1
+# print(list)
+
+
+
+
+
